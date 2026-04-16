@@ -115,7 +115,11 @@ cd ai-content-agent
 pip install -r requirements.txt
 Usage
 streamlit run app.py
-Use Cases
+
+
+
+
+#Use Cases
 Social media content creation
 Digital marketing workflows
 Personal branding
@@ -149,3 +153,4 @@ If you want even stronger impact for recruiters, I can:
 - Design **LinkedIn project post (high reach)**
 
 Just tell 👍
+
